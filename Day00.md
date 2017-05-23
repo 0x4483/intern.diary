@@ -20,3 +20,6 @@ __What I learned__
 
 Firehose is a steady stream of data from a source. 
 
+Bring pen and pencil to draw up design ideas is a good strategy. 
+
+No need to bring personal computer. 
